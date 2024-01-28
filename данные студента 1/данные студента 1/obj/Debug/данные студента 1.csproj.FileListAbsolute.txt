@@ -1,0 +1,25 @@
+F:\уп\данные студента 1\данные студента 1\bin\Debug\данные студента 1.exe.config
+F:\уп\данные студента 1\данные студента 1\bin\Debug\данные студента 1.exe
+F:\уп\данные студента 1\данные студента 1\bin\Debug\данные студента 1.pdb
+F:\уп\данные студента 1\данные студента 1\bin\Debug\EntityFramework.dll
+F:\уп\данные студента 1\данные студента 1\bin\Debug\EntityFramework.SqlServer.dll
+F:\уп\данные студента 1\данные студента 1\bin\Debug\System.Data.SQLite.dll
+F:\уп\данные студента 1\данные студента 1\bin\Debug\System.Data.SQLite.EF6.dll
+F:\уп\данные студента 1\данные студента 1\bin\Debug\System.Data.SQLite.Linq.dll
+F:\уп\данные студента 1\данные студента 1\bin\Debug\EntityFramework.xml
+F:\уп\данные студента 1\данные студента 1\bin\Debug\EntityFramework.SqlServer.xml
+F:\уп\данные студента 1\данные студента 1\bin\Debug\System.Data.SQLite.xml
+F:\уп\данные студента 1\данные студента 1\obj\Debug\данные студента 1.csproj.AssemblyReference.cache
+F:\уп\данные студента 1\данные студента 1\obj\Debug\данные студента 1.csproj.SuggestedBindingRedirects.cache
+F:\уп\данные студента 1\данные студента 1\obj\Debug\данные_студента_1.entrance.resources
+F:\уп\данные студента 1\данные студента 1\obj\Debug\данные_студента_1.registration.resources
+F:\уп\данные студента 1\данные студента 1\obj\Debug\данные_студента_1.samples.resources
+F:\уп\данные студента 1\данные студента 1\obj\Debug\данные_студента_1.Form4.resources
+F:\уп\данные студента 1\данные студента 1\obj\Debug\данные_студента_1.faculty.resources
+F:\уп\данные студента 1\данные студента 1\obj\Debug\данные_студента_1.students.resources
+F:\уп\данные студента 1\данные студента 1\obj\Debug\данные_студента_1.Properties.Resources.resources
+F:\уп\данные студента 1\данные студента 1\obj\Debug\данные студента 1.csproj.GenerateResource.cache
+F:\уп\данные студента 1\данные студента 1\obj\Debug\данные студента 1.csproj.CoreCompileInputs.cache
+F:\уп\данные студента 1\данные студента 1\obj\Debug\данные студента 1.csproj.CopyComplete
+F:\уп\данные студента 1\данные студента 1\obj\Debug\данные студента 1.exe
+F:\уп\данные студента 1\данные студента 1\obj\Debug\данные студента 1.pdb
